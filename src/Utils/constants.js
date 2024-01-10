@@ -15,4 +15,4 @@ export const BG_URL = "https://assets.nflxext.com/ffe/siteui/vlv3/d1532433-07b1-
 
 export const SUPPORTED_LANGUAGES = [{identifier: "en", name: "English"}, {identifier: "hindi", name: "Hindi"}, {identifier: "spanish", name: "spanish"}];
 
-export const OPENAI_KEY = process.env.REACT_APP_OPENAI_KEY //"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";
+export const OPENAI_KEY = process.env.REACT_APP_OPENAI_KEY
