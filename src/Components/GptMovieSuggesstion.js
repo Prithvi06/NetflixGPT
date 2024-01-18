@@ -15,9 +15,8 @@ const GptSearchSuggesstion = () => {
                         key={movieName}
                         title={movieName}
                         movies={movieResult[index]}/>
-                ))};
-               <h1>{movieNames[0]}</h1>
-               
+                ))
+            }
             </div>
         </div>
     )
